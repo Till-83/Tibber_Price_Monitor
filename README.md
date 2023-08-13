@@ -18,4 +18,4 @@ Colours are the price levels estimated by the Tibber API.
 Hardware cost: Electronics around 10 Euro
 
 ##Final result:
-!([A LED display with 8 columns](https://github.com/Till-83/Tibber_Price_Monitor/blob/main/images/picture.jpeg)
+![A LED display with 8 columns](https://github.com/Till-83/Tibber_Price_Monitor/blob/main/images/picture.jpeg)
