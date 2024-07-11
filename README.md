@@ -17,5 +17,8 @@ Colours are the price levels estimated by the Tibber API.
 
 Hardware cost: Electronics around 10 Euro
 
+##There is also a 3D-printable case created by Hatrick3D that can be used: 
+[https://www.printables.com/de/model/908102-8x8-led-matrix-display-as-energy-price-indicator-f](https://www.printables.com/de/model/908102-8x8-led-matrix-display-as-energy-price-indicator-f)
+
 ##Final result:
 ![A LED display with 8 columns](https://github.com/Till-83/Tibber_Price_Monitor/blob/main/images/picture.jpeg)
